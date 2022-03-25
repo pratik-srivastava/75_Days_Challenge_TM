@@ -1,2 +1,2 @@
-# 75_Days_Challenge_TM
+# 75 Days Challenge TM
 A Challenge by Karan Garg Sir!
